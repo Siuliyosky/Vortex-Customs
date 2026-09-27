@@ -1,0 +1,13 @@
+{
+  "name": "vortex-customs",
+  "version": "1.0.0",
+  "description": "VORTEX Customs - Fortnite customs, bot lobbies and trading",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^4.22.3"
+  }
+}
